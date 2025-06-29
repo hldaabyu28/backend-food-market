@@ -36,6 +36,7 @@ class User extends Authenticatable
         'address',
         'houseNumber',
         'phoneNumber',
+        'profile_photo_path',
         'city',
         'roles',
     ];
